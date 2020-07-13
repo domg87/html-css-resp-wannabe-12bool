@@ -1,3 +1,27 @@
+
 .title-header{
+  margin-top: 30px;
   text-align: center;
+}
+
+.img-nav{
+  height: 150px;
+}
+
+.left, .right, .section-text {
+  padding: 20px;
+  line-height: 1.3;
+}
+
+.section {
+  margin-top: 30px;
+}
+
+.img-section{
+  margin-top: 20px;
+  height: 200px;
+}
+.gray{
+  height: auto;
+  background-color: #F9F9F9;
 }
