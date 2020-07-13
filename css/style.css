@@ -5,7 +5,7 @@
 }
 
 .img-nav{
-  height: 150px;
+  max-height: 150px;
 }
 
 .left, .right, .section-text {
@@ -19,7 +19,7 @@
 
 .img-section {
   margin-top: 20px;
-  height: 200px;
+  max-width: 100%;
 }
 .gray{
   height: auto;
