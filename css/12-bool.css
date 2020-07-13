@@ -66,8 +66,8 @@
   }
 }
 
-/* Smartphone < 768px */
-@media screen and (min-width: 768px) {
+/* Smartphone < 468px */
+@media screen and (max-width: 468px) {
   .col-xs-1 {
     width: calc(100% / 12);
   }
@@ -112,8 +112,8 @@
   }
 }
 
-/* Tablet 769 - 992 */
-@media screen and (min-width: 769px) and (max-width: 992px ) {
+/* Tablet 469 - 992 */
+@media screen and (min-width: 469px) and (max-width: 992px ) {
   .col-md-1 {
     width: calc(100% / 12);
   }
@@ -199,8 +199,8 @@
 
 }
 
-/* Smartphone -xs- < 768px */
-@media screen and (max-width: 768px) {
+/* Smartphone -xs- < 468px */
+@media screen and (max-width: 468px) {
   .offset-xs-1 {
     margin-left: calc(100% / 12);
   }
@@ -240,8 +240,8 @@
 
 }
 
-/* Tablet -md- 769 - 992 */
-@media screen and (min-width: 769px) and (max-width: 992px) {
+/* Tablet -md- 469 - 992 */
+@media screen and (min-width: 469px) and (max-width: 992px) {
   .offset-md-1 {
     margin-left: calc(100% / 12);
   }
